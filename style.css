@@ -1,0 +1,20 @@
+*{font-family: Comic Sans MS, Tahoma;
+  margin:15px 30px; font-size: 17px; color: #99c9ff; background-color: #0a0a23}
+h1,h2{font-size: 25px; color: rgb(255,190,0); padding-left:30px}
+.dino{
+width: 800px;aspect-ratio:locked}
+.fist-vivision>img{position: relative;width:40%; object-fit:cover}
+.fist-vivision{display:flex}
+.yess{text-align: justify;margin-top: auto;
+margin-bottom: auto;
+margin-left:0;
+margin-right: -40px}
+/* Reduce the space between list items */
+ul {
+  list-style-type: disc; /* Remove default list styles, such as bullets or numbers */
+  padding: 0; /* Remove any default padding on the ul element */
+}
+
+li {
+  margin-bottom: 5px; /* Adjust the margin to your preferred spacing */
+}
