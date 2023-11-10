@@ -1,11 +1,11 @@
 *{
   font-family: Comic Sans MS, Tahoma;
-  margin:15px auto;
+  margin:15px 20px;
   font-size: 17px;
   color: #99c9ff;
   background-color: #0a0a23}
 h1,h2{
-  font-size: 25px; color: rgb(255,190,0); padding-left:auto}
+  font-size: 25px; color: rgb(255,190,0); padding-left:20px}
 .dino{
 width: 800px;aspect-ratio:locked}
 .fist-vivision>img{position: relative;width:40%; object-fit:cover}
