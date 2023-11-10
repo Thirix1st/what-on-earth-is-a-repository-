@@ -9,7 +9,7 @@ h1,h2{
 .dino{
 width: 800px;aspect-ratio:locked}
 .fist-vivision>img{position:absolute;width:40%; object-fit:cover}
-.fist-vivision{display:flex}
+.fist-vivision{display:flex; justify-content:space-between}
 .yess{text-align: justify;margin-top: auto;
 margin-bottom: auto;
 margin-left:0;
